@@ -1,6 +1,6 @@
 # News Web Scraper 🕸️
 
-A simple Python script that scrapes and prints the latest news headlines from BBC News using BeautifulSoup.
+A simple Python script that scrapes and prints the latest news headlines from YCombinator using BeautifulSoup.
 
 ## How to Run
 
